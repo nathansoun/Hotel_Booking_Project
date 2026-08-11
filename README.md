@@ -2,14 +2,14 @@
 
 ---
 
-##Project Overview
+## Project Overview
   This project analyzes hotel booking data using Tableau to identify trends in revenue, booking prices, reservation outcomes, and customer market segments.The goal of this project was to transform raw hotel booking data into an interactive dashboard that allows users to quickly understand hotel performance, booking behavior, and revenue trends.
 
 The dashboard was built using Tableau and contains multiple visualizations that provide different perspectives on hotel operations and customer bookings.
 
 ---
 
-##Business Questions
+## Business Questions
 This dashboard was designed to answer questions such as:
   1. How does hotel revenue change over time?
   2. What is the average booking price throughout the year?
@@ -20,14 +20,14 @@ This dashboard was designed to answer questions such as:
   7. 
 ---
 
-##Tools & Technologies
+## Tools & Technologies
   Tableau – Data visualization and dashboard development
   CSV – Source data
   Data Analysis – Revenue, booking, reservation, and market segmentation analysis
   
 ---
 
-##Dataset
+## Dataset
 The project uses the Hotel Booking Demand dataset containing over 119,000 hotel booking records.
   The dataset contains hotel reservation information including:
   - Hotel type
@@ -48,7 +48,7 @@ The project uses the Hotel Booking Demand dataset containing over 119,000 hotel 
     
 ---
 
-##Dashboard
+## Dashboard
 The Tableau dashboard contains five primary visualizations:
   1. Monthly Revenue
       Shows hotel revenue trends across different months and years.
@@ -86,7 +86,7 @@ The Tableau dashboard contains five primary visualizations:
 
 ---
 
-##Key Skills Demonstrated
+## Key Skills Demonstrated
   This project demonstrates my ability to:
   - Import and work with structured datasets
   - Analyze large datasets
@@ -101,7 +101,7 @@ The Tableau dashboard contains five primary visualizations:
 
 ---
 
-##Business Value
+## Business Value
   The dashboard can help hotel management understand:
     Revenue Performance
       - Identify periods of strong and weak revenue performance.
@@ -116,7 +116,7 @@ These insights can support decisions involving pricing strategy, marketing alloc
 
 ---
 
-##Project Takeaway
+## Project Takeaway
   This project demonstrates how data visualization can transform raw hotel booking data into business insights. By combining revenue analysis, geographic analysis, market segmentation, and reservation analysis into a single Tableau dashboard, the project provides a comprehensive view of hotel booking performance.
   
 ---
