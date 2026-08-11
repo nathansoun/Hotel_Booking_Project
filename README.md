@@ -103,3 +103,5 @@ These insights can support decisions involving pricing strategy, marketing alloc
 
 Project Takeaway
   This project demonstrates how data visualization can transform raw hotel booking data into business insights. By combining revenue analysis, geographic analysis, market segmentation, and reservation analysis into a single Tableau dashboard, the project provides a comprehensive view of hotel booking performance.
+
+<img width="1498" height="798" alt="Tableau_Hotel_Dashboard" src="https://github.com/user-attachments/assets/2e9ba8d2-92e1-4257-9f48-d4da8d7352f0" />
