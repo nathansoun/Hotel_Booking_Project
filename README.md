@@ -20,9 +20,9 @@ This dashboard was designed to answer questions such as:
 ---
 
 ## Tools & Technologies
-  Tableau – Data visualization and dashboard development
-  CSV – Source data
-  Data Analysis – Revenue, booking, reservation, and market segmentation analysis
+  - Tableau – Data visualization and dashboard development
+  - CSV – Source data
+  - Data Analysis – Revenue, booking, reservation, and market segmentation analysis
   
 ---
 
@@ -50,13 +50,13 @@ The project uses the Hotel Booking Demand dataset containing over 119,000 hotel 
 ## Dashboard
 The Tableau dashboard contains five primary visualizations:
   1. Monthly Revenue
-      Shows hotel revenue trends across different months and years.
-      Purpose:
-      Identify seasonal revenue patterns
-      Compare revenue across different periods
-      Understand changes in hotel performance
+  Shows hotel revenue trends across different months and years.
+  purpose:
+  - Identify seasonal revenue patterns
+  - Compare revenue across different periods
+  - Understand changes in hotel performance
   
-  2. Reservation Status
+  3. Reservation Status
   Breaks down reservations based on their final status.
   Purpose:
   - Understand successful vs. canceled bookings
