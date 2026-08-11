@@ -98,19 +98,18 @@ The Tableau dashboard contains five primary visualizations:
   - Analyze reservation behavior
   - Present data in a business-focused format
   - Turn raw data into actionable insights
-
 ---
 
 ## Business Value
   The dashboard can help hotel management understand:
-    Revenue Performance
-      - Identify periods of strong and weak revenue performance.
-    Customer Markets
-      - Determine which countries and market segments contribute the most revenue.
-    Reservation Behavior
-      - Understand reservation outcomes and cancellation patterns.
-    Pricing
-      - Monitor average booking prices and identify changes in pricing behavior.
+  Revenue Performance
+  - Identify periods of strong and weak revenue performance.
+  Customer Markets
+  - Determine which countries and market segments contribute the most revenue.
+  Reservation Behavior
+  - Understand reservation outcomes and cancellation patterns.
+  Pricing
+  - Monitor average booking prices and identify changes in pricing behavior.
 
 These insights can support decisions involving pricing strategy, marketing allocation, customer targeting, and revenue management.
 
