@@ -49,6 +49,7 @@ The project uses the Hotel Booking Demand dataset containing over 119,000 hotel 
 
 ## Dashboard
 The Tableau dashboard contains five primary visualizations:
+  
   1. Monthly Revenue
   Shows hotel revenue trends across different months and years.
   purpose:
@@ -69,7 +70,7 @@ The Tableau dashboard contains five primary visualizations:
   - Understand where hotel revenue is coming from
   - Compare international customer markets
   
-  4. Revenue by Market Segment
+  5. Revenue by Market Segment
   Analyzes revenue based on customer acquisition/market segments.
   Purpose:
   - Identify the most valuable market segments
@@ -119,5 +120,5 @@ These insights can support decisions involving pricing strategy, marketing alloc
   
 ---
 
-##Dashboard Preview
+## Dashboard Preview
 <img width="1498" height="798" alt="Tableau_Hotel_Dashboard" src="https://github.com/user-attachments/assets/2e9ba8d2-92e1-4257-9f48-d4da8d7352f0" />
