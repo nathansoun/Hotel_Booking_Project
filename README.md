@@ -50,7 +50,7 @@ The project uses the Hotel Booking Demand dataset containing over 119,000 hotel 
 ## Dashboard
 The Tableau dashboard contains five primary visualizations:
   
-  **1. Monthly Revenue**
+  1. **Monthly Revenue**
   Shows hotel revenue trends across different months and years.
   purpose:
   - Identify seasonal revenue patterns
